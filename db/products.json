@@ -1,0 +1,18 @@
+{
+  "products": [
+    {
+      "id": 2,
+      "name": "keyboard",
+      "description": "keyboard rgb gaming",
+      "price": 470,
+      "inStock": false
+    },
+    {
+      "name": "Cubo",
+      "description": "Cubo rubik bien aka",
+      "price": "80",
+      "inStock": true,
+      "id": 3
+    }
+  ]
+}
