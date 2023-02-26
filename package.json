@@ -18,7 +18,7 @@
     "react-dom": "^18.2.0",
 
     "start": "node src/server.js",
-    "build": "npm run build:lambda",
+    "build": "npm run back",
     "build:lambda": "netlify-lambda build src/server.js -c webpack.netlify.js",
     "clean": "rm -rf build"
   },
